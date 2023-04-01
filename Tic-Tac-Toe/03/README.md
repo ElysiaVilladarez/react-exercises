@@ -1,2 +1,2 @@
 # Basic React Tutorial: Tic Tac Toe
-### For the current move only, show “You are at move #…” instead of a button.
+### Rewrite Board to use two loops to make the squares instead of hardcoding them.
